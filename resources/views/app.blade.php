@@ -19,6 +19,7 @@
     <works-component></works-component>
     <about-component></about-component>
     <skill-component></skill-component>
+    <contact-component></contact-component>
 </div>
 <!-- Scripts -->
 <script src="{{ mix('/js/app.js') }}" defer></script>

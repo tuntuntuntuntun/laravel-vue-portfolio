@@ -3,6 +3,7 @@ import MainComponent from "./components/MainComponent";
 import WorksComponent from "./components/WorksComponent";
 import AboutComponent from "./components/AboutComponent";
 import SkillComponent from "./components/SkillComponent";
+import ContactComponent from "./components/ContactComponent";
 
 /**
  * First we will load all of this project's JavaScript dependencies which
@@ -31,6 +32,7 @@ Vue.component('main-component', MainComponent);
 Vue.component('works-component', WorksComponent);
 Vue.component('about-component', AboutComponent);
 Vue.component('skill-component', SkillComponent);
+Vue.component('contact-component', ContactComponent);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
