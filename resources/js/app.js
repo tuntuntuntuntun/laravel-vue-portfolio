@@ -1,6 +1,7 @@
 import HeaderComponent from "./components/HeaderComponent";
 import MainComponent from "./components/MainComponent";
 import WorksComponent from "./components/WorksComponent";
+import AboutComponent from "./components/AboutComponent";
 
 /**
  * First we will load all of this project's JavaScript dependencies which
@@ -27,6 +28,7 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
 Vue.component('header-component', HeaderComponent);
 Vue.component('main-component', MainComponent);
 Vue.component('works-component', WorksComponent);
+Vue.component('about-component', AboutComponent);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
