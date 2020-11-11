@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>MY NAME</h1>
-        <h2>PORTFOLIO</h2>
+        <p>PORTFOLIO</p>
     </div>
 </template>
 
@@ -18,7 +18,7 @@
         margin-top: 100px;
     }
 
-    h2 {
+    p {
         font-size: 15px;
     }
 </style>
