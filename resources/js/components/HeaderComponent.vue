@@ -20,7 +20,9 @@
     nav {
         margin: 0;
         padding: 0;
-        border-bottom: 1px solid #000;
+        /* border-bottom: 1px solid #000; */
+        background-color: #FBCFD8;
+        color: #5A5619;
     }
 
     ul {
